@@ -1,0 +1,49 @@
+body {
+  font-family: Arial;
+  color: #333;
+  font-size: 15px;
+  line-height: 22.5px;
+}
+
+.container {
+  width: min(100% - 3rem, 80ch);
+  margin-inline: auto;
+  overflow: clip;
+}
+
+.flow > * + * {
+  margin-top: 1em;
+}
+
+h1,
+h2,
+h3 {
+  line-height: 26px;
+}
+
+h1 {
+  font-size: 26px;
+  margin-top: 2em;
+}
+
+h2 {
+  font-size: 24px;
+}
+
+h3 {
+  font-size: 20px;
+  color: #666;
+  margin: 0 0 0.67em;
+}
+
+a {
+  color: #b24926;
+}
+
+a:hover {
+  color: #333;
+}
+
+a:focus {
+  outline: thin dotted;
+}
