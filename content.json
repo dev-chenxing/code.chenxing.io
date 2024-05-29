@@ -1,0 +1,15 @@
+{
+  "title": "Includes & Libraries",
+  "sections": [
+    {
+      "title": "Greasemonkey Script",
+      "files": [
+        {
+          "name": "waitForKeyElements.js",
+          "description": "A utility function, for Greasemonkey scripts, that detects and handles AJAXed content.",
+          "source": "https://gist.github.com/raw/2625891/waitForKeyElements.js"
+        }
+      ]
+    }
+  ]
+}

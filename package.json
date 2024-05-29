@@ -1,0 +1,23 @@
+{
+  "name": "code.chenxing.io",
+  "version": "1.0.0",
+  "description": "includes & libraries",
+  "main": "index.ts",
+  "dependencies": {},
+  "devDependencies": {
+    "@types/node": "^20.12.12"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dev-chenxing/code.chenxing.io.git"
+  },
+  "author": "chenxing",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dev-chenxing/code.chenxing.io/issues"
+  },
+  "homepage": "https://github.com/dev-chenxing/code.chenxing.io#readme"
+}
